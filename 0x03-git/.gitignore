@@ -1,0 +1,9 @@
+# Ignore the node_modules directory with ~
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
